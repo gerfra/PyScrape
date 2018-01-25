@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup
 import requests
 from urllib import urlretrieve
 import os
-import sys
 
 url = "http://www.coverbrowser.com/covers/dreamcast-games"
 ext = "jpg"
